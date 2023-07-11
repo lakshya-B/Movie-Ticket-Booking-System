@@ -1,0 +1,24 @@
+**************************************************MENU******************************************************************
+***SNACKS***
+1. PANNER PIZZA          	    Rs 190/-
+2. CHEESE PIZZA         	    Rs 160/-
+3. CHICKEN PIZZA        	    Rs 220/-
+4. CLASSIC VEG BURGER  	 	    Rs 110/-
+5. CLASSIC CHICKEN BURGER      	    Rs 160/-
+6. VEG GRILL SANDWICH               Rs 90/-
+7. CHICKEN SANDWICH                 Rs 140/-
+8. POPCORN-CLASSIC		    Rs 80/-
+9. POPCORN-TOMATO FLAVOUR	    Rs 100/-
+10.POPCORN-CARAMEL FLAVOUR	    Rs 100/-
+11.SWEET CORN 			    Rs 60/-
+12.PATIS			    Rs 40/-
+13.SPRING ROLLS			    Rs 120/-
+***BEVRAGE AND DESERTS***
+14.COLD COFFEE			    Rs 70/-
+15.HOT COFFEE			    Rs 50/-
+16.ICE CREAM			    Rs 60/-
+17.MINERAL WATER		    Rs 40/-
+18.PEPSI/SPRITE/FANTA		    Rs 80/-
+19.FRAPPE			    Rs 75/-
+20.CAPPUCCINO 			    Rs 90/-
+*******************************THANK YOU <3<3  VISIT AGAIN :) *****************************************************
