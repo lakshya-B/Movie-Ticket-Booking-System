@@ -3,3 +3,6 @@ It is a movie ticket booking system created as a project in my 3rd semester. You
 
 ## USER-INTERFACE
 ![L_OP](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/ad81441b-1cdc-4567-972f-20f8f91c9ef6)
+
+## SEATING PLAN
+![L_SE](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/bc732502-8ebd-4b91-8ec3-f75270afa7ed)
