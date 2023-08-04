@@ -6,3 +6,6 @@ It is a movie ticket booking system created as a project in my 3rd semester. You
 
 ## SEATING PLAN
 ![L_SE](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/bc732502-8ebd-4b91-8ec3-f75270afa7ed)
+
+## SNACKS AND TICKET
+![L_TIC](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/e356dce4-f2bc-4bf2-9b1d-b937f20f9186)
