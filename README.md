@@ -15,3 +15,4 @@ It is a movie ticket booking system created as a project in my 3rd semester. You
 
 #### TICKETS CAN ALSO BE CANCELLED, CANCELLED SEATS ARE NOW EMPTY 
 ![L_CAN](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/00ccf040-939a-41cc-b59c-f79c2617c05f)
+![J_TIC](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/c9a4c6ce-81e2-4256-b7c5-8f078defcf69)
