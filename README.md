@@ -1,2 +1,5 @@
 # Movie-Ticket-Booking-System
 It is a movie ticket booking system created as a project in my 3rd semester. You can select the seat and movie you want from the seating plan along with snacks and get the ticket as the output.
+
+## USER-INTERFACE
+![L_OP](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/ad81441b-1cdc-4567-972f-20f8f91c9ef6)
