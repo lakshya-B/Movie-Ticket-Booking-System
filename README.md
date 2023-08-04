@@ -10,5 +10,8 @@ It is a movie ticket booking system created as a project in my 3rd semester. You
 ## SNACKS AND TICKET
 ![L_TIC](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/e356dce4-f2bc-4bf2-9b1d-b937f20f9186)
 
-SEATS WHICH ARE NOT EMPTY ARE REPLACED WITH *
+#### SEATS WHICH ARE NOT EMPTY ARE REPLACED WITH *
 ![S_TIC](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/e41ee49c-81b2-4bab-a050-38cd526d691e)
+
+#### TICKETS CAN ALSO BE CANCELLED, CANCELLED SEATS ARE NOW EMPTY 
+![L_CAN](https://github.com/lakshya-B/Movie-Ticket-Booking-System/assets/95135448/00ccf040-939a-41cc-b59c-f79c2617c05f)
